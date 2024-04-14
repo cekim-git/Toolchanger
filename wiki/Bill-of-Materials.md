@@ -3,7 +3,7 @@ All parts (screws, magnets, etc) are Voron, and Voron Tap standards.
 1. [Shuttle](#shuttle)
 2. [BackPlates](#backplates)
 3. [Endstops](#endstops)
-4. [Options]($options)
+4. [Options](#options)
 5. [Affiliate Links](#affiliate-links)
 
 ## Shuttle
@@ -46,7 +46,7 @@ Optional
 
 ## Options
 
-You will likely need help with belts, make sure to decide on if you will use the [shuttle keeper](https://github.com/Stealthchanger/Toolchanger/tree/main/STLs/Extras) or use the [belt helper](https://github.com/Stealthchanger/Toolchanger/tree/main/UserMods/HellSpark/BeltHelper).  And print the required parts and make sure to have the addition bill of materials for them.
+You will likely need help with belts, make sure to decide on if you will use the [shuttle keeper](https://github.com/DraftShift/Stealthchanger/tree/main/STLs/Extras) or use the [belt helper](https://github.com/DraftShift/Stealthchanger/tree/main/UserMods/HellSpark/BeltHelper).  And print the required parts and make sure to have the addition bill of materials for them.
 
 
 ## Affiliate Links

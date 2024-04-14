@@ -1,7 +1,5 @@
-# <img src="media/Stealthchanger_toolchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
+# <img src="media/Stealthchanger_logo.png?raw=true" height="100" align="top" /> StealthChanger
 **Tool changing system for Vorons and other front mount printer motion systems.**
-
-Based on Viesturz's work on [Tapchanger](https://github.com/viesturz/tapchanger)
 
 ## Introduction
 
@@ -18,27 +16,31 @@ Currently we support the standard Stealth Burner, Dragon Burner, and Rapid Burne
 
 ## Documentation and Info
 
-Please use our [wiki](https://github.com/StealthChanger/Toolchanger/wiki) for more information and documentation.
+Please use our [wiki](../../wiki) for more information and documentation.
 
-- [Bill of Materials](https://github.com/StealthChanger/Toolchanger/wiki/Bill-of-Materials)
-- [Printing](https://github.com/StealthChanger/Toolchanger/wiki/Printing)
-- [Assembling](https://github.com/StealthChanger/Toolchanger/wiki/Assembling)
-- [Installation](https://github.com/StealthChanger/Toolchanger/wiki/Installation)
-- [Configuration](https://github.com/StealthChanger/Toolchanger/wiki/Configuration)
-- [Docks](https://github.com/StealthChanger/Toolchanger/wiki/Docks)
-- [Slicers](https://github.com/StealthChanger/Toolchanger/wiki/Slicers)
-- [Support and FAQs](https://github.com/StealthChanger/Toolchanger/wiki/Support-and-FAQs)
-- [Contributing](https://github.com/StealthChanger/Toolchanger/wiki/Contributing)
-- [Contributors & Credits](https://github.com/StealthChanger/Toolchanger/wiki/Contributors-and-Credits)
+- [Bill of Materials](../../wiki/Bill-of-Materials)
+- [Printing](../../wiki/Printing)
+- [Assembling](../../wiki/Assembling)
+- [Installation](../../wiki/Installation)
+- [Configuration](../../wiki/Configuration)
+- [Docks](../../wiki/Docks)
+- [Slicers](../../wiki/Slicers)
+- [Support and FAQs](../../wiki/Support-and-FAQs)
+- [Contributing](../../wiki/Contributing)
+- [Contributors & Credits](../../wiki/Contributors-and-Credits)
 
 
 ## Preview
-### Printed Parts (Dragonburner) by ZombieHedgehog
-![](https://github.com/StealthChanger/Toolchanger/blob/main/media/parts.png?raw=true)
-![](https://github.com/StealthChanger/Toolchanger/blob/main/media/parts_together.png?raw=true)
-### Assembled Shuttle by TheSin-
-![](https://github.com/StealthChanger/Toolchanger/blob/main/media/shuttle.jpg?raw=true)
+### Printed Parts (Dragonburner) by BT123
+![](media/parts.png?raw=true)
+![](media/parts_together.png?raw=true)
+### Important! - Check for clear Hex's (Dragonburner) by BT123
+![](media/hexs.png?raw=true)
+### Assembled Shuttle and Backplate by BT123
+![](media/assemble.png?raw=true)
 ### Motion (Stealthburner) by TheSin-
-![](https://github.com/StealthChanger/Toolchanger/blob/main/media/motion.gif?raw=true)
+![](media/motion.gif?raw=true)
 ### Docking (Stealthburner) by fiferboy
-![](https://github.com/StealthChanger/Toolchanger/blob/main/media/docking.gif?raw=true)
+![](media/docking.gif?raw=true)
+
+Originally based on Viesturz's [Tapchanger](https://github.com/viesturz/tapchanger)
