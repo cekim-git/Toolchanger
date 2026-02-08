@@ -1,1 +1,1 @@
-# {% set excludes = ['superseded', 'superseeded', 'deprecated'] %}
+# Old files without hierarchy { deprecated }
