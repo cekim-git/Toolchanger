@@ -1,1 +1,1 @@
-{% set excludes = ['superseded', 'superseeded', 'deprecated'] %}
+# {% set excludes = ['superseded', 'superseeded', 'deprecated'] %}
